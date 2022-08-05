@@ -2,11 +2,11 @@
   "name": "api-horror-games",
   "version": "1.0.0",
   "description": "Proyecto API de juegos de terror",
-  "main": "./src/index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/index.js",
-    "dev": "nodemon ./src/index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "horror",
